@@ -1,4 +1,4 @@
-module github.com/go-pg/migrations/v8
+module github.com/bearsh/migrations/v8
 
 go 1.16
 
